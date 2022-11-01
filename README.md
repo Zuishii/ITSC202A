@@ -1,3 +1,3 @@
 # ITSC202A
-Basic C Coding Assignments from my university coding class im enrolled in
+Basic C coding assignments from the universiry coding class im enrolled in
 
